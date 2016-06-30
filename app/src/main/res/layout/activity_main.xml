@@ -22,4 +22,11 @@
         android:id="@+id/btnNext"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+
+    <TextSwitcher
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchText"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
